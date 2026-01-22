@@ -1,6 +1,6 @@
 # Student-Management-System-
-Name: Azeez Atilola Arafat
-Matric: 25/18022
+Name: Azeez Atilola Arafat       
+Matric: 25/18022       
 Department: Computer scrience
 
 PROJECT NAME: STUDENT MANAGEMENT SYSTEM
