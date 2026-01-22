@@ -1,4 +1,8 @@
 # Student-Management-System-
+Name: Azeez Atilola Arafat
+Matric: 25/18022
+Department: Computer scrience
+
 PROJECT NAME: STUDENT MANAGEMENT SYSTEM
 The Student Management System is a Python program that:
 • Stores student name and matric number
